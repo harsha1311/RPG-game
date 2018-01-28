@@ -5,9 +5,9 @@ Used Classes in python
 Players vs Enemies
 =======================
 Any person can use 
-
-1)Magic
-2)Items
-3)Attack
-Shows HP bars(current health) of every player after every round.
+<br>
+1)Magic<br>
+2)Items<br>
+3)Attack<br>
+Shows HP bars(current health) of every player after every round.<br>
 Used colour.
