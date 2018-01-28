@@ -9,4 +9,4 @@ Any person can use
 2)Items
 3)Attack
 Shows HP bars(current health) of every player after every round.
-Used colourr.
+Used colour.
